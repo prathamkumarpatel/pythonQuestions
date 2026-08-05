@@ -1,0 +1,5 @@
+nums = [1,2,5,4,7,8,3,6]
+for val in nums:
+    print(val)
+else:
+        print("A")
